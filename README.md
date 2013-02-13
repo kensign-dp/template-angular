@@ -10,7 +10,7 @@ compressor, CSS-linter, compressor and compiler, running SASS or LESS, based on 
 
 ## Quick start
 
-Clone the git repo — `git clone https://github.com/kensign-dhap/dhap-template.git` - and checkout the tagged
+Clone the git repo — `git clone https://github.com/kensign-dp/template.git` - and checkout the tagged
 release you'd like to use. The structure for this template is as follows:
 
 	myApp/
